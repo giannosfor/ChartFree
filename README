@@ -1,3 +1,7 @@
+Retrieves data from a JSON
+(suppose to be a Facebook API respone,requesting users like).
+Represent them visually (throught a pie chart).
+
 libraries:
 
 JFreeChart,JSON
