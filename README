@@ -1,11 +1,8 @@
-Retrieves data from a JSON
-(suppose to be a Facebook API respone,requesting user likes).
-Represent them visually (throught a pie chart).
+Graphical data representation.
+The data format is a JSON file.
 
-libraries:
 
-JFreeChart,JSON
 
-Tools:
 
-Netbeans
+Libraries:JFreeChart
+IDE:Netbeans
